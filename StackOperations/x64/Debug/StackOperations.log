@@ -1,0 +1,4 @@
+﻿  StackOperations.cpp
+C:\Users\BRAEL\Downloads\1272219\StackOperations\StackOperations\StackOperations.cpp(50,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\BRAEL\Downloads\1272219\StackOperations\StackOperations\StackOperations.cpp(60,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  StackOperations.vcxproj -> C:\Users\BRAEL\Downloads\1272219\StackOperations\x64\Debug\StackOperations.exe
